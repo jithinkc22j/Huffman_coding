@@ -7,9 +7,9 @@ The input given to the program is a string and the ouput given sorted string of 
    
     Input: sseasoseoeaieiestseossieiaeiuiaieeiaeueaiuiasaeieauasisess
     
-  a = 10, e = 15, i = 12, o = 3, s = 13, t = 1, u = 4 :-> (58)
+  a = 10, e = 15, i = 12, o = 3, s = 13, t = 1, u = 4 : -> (58)
   
-  Each char 8 bit -> 58 * 8 = 464 bits
+  Each char 8 bits -> 58 * 8 = 464 bits
    
     Output (sorted string) :- 
                         
@@ -30,7 +30,7 @@ The input given to the program is a string and the ouput given sorted string of 
       
                                       SUM = 146 bits
                    -------------------------------
-                           Encoded size ---> 260 bits
+                           Encoded size ---> 260 bits 
                                             ------
                            
                            Saved size --> 464 - 260 = 204 bits
